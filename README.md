@@ -32,5 +32,5 @@ Actualmente estoy mejorando proyectos propios y capacitandome como desarrollador
   Front-end: React, Redux, CSS  <br>
   Back-end: NodeJs, Express, Sequelize <br>
   <a href="https://github.com/MLSalerno/PI-Food-main/">Link </a>
-  <img src="">
+  <img src="https://github.com/MLSalerno/MLSalerno/blob/a16d396e51ee8bec0265fa24ae31320622f544d9/PI%20FOOD.png">
   
