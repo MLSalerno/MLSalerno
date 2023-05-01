@@ -10,7 +10,7 @@ Actualmente estoy mejorando proyectos propios y capacitandome como desarrollador
 ## Contactame
    E-mail: **ml.salerno@outlook.com**
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mauricio-salerno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-salerno/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mauricio-salerno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-salerno/" height="30" width="40" /></a>
 </p>
 
 ## Projectos
